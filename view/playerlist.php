@@ -1,5 +1,35 @@
 <html>  
-<head></head>  
+<head>
+	<style>
+		h3 {
+			text-align: center;
+		}
+		table, td, th {    
+		    border: 1px solid #ddd;
+		    text-align: center;
+		}
+
+		table {
+		    border-collapse: collapse;
+		    width: 100%;
+		    max-width: 800px;
+		    text-align: center;
+		}
+
+		th, td {
+		    padding: 15px;
+		}
+
+		th {
+			background-color: #f9a743;
+    		color: white;
+		}
+
+		tr:hover {
+			background-color:#f5f5f5;
+		}
+	</style>
+</head>  
   
 <body>  
   	
